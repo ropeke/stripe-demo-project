@@ -12,3 +12,7 @@ Welcome to Rotimi`s Demo Project - please follow the listed instructions to test
 5. Navigate back to the main project folder and type out `npm run-script start-server`
 6. In another tab (w/o virtual environment running), type out `npm start`
 7. Test away!
+
+
+
+# Friction Log: https://www.notion.so/PaymentIntent-Integration-Friction-Log-Rotimi-Opeke-Product-Manager-f7e75911ec58492abe36ea91b300a747

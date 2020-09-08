@@ -12,7 +12,7 @@ endpoint_secret = 'whsec_BvlBHNNtIcHWYAfFqY4HlZH9UD8V4FCQ'
 @app.route('/secret')
 def secret():
 	intent = stripe.PaymentIntent.create(
-	amount=699,
+	amount=1200,
 	currency='usd',
 	# Verify your integration in this guide by including this parameter
 	payment_method_types=["card"],
